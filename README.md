@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am a student.
+Now I am trying to study hard.
+So that I can do something by myself.👋
 
 <!--
 **therenobod/therenobod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
